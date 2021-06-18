@@ -17,6 +17,10 @@ h1{
     border-radius: 100mm;
 }
 
+h2{
+    text-align: center;
+}
+
 header{
     color: rgb(5, 175, 187);
     min-width: 10mm;
