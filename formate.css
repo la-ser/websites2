@@ -20,6 +20,11 @@ td{
     text-align: center;
 }
 
+tr{
+    color: black;
+    text-align: center;
+}
+
 h1{
     margin: 1px;
     text-align: center;
