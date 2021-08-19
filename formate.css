@@ -21,7 +21,7 @@ a{
 }
 
 td{
-    color: black;
+    color: rgb(5 255 59);
     text-align: center;
 }
 
@@ -41,6 +41,7 @@ h1{
 
 h2{
     text-align: center;
+    color: #6cff47;
 }
 
 header{
