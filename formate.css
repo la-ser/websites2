@@ -38,11 +38,11 @@ tr{
 h1{
     margin: 1px;
     text-align: center;
-    background-color: rgb(0 139 117);
+    background-color: rgb(35, 163, 73);
     border-style: double;
     border-radius: 10mm;
-    color: #00ff8a;
-}
+    color: #0ddb2f;
+  }
 
 h2{
     text-align: center;
